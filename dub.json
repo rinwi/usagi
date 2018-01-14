@@ -1,0 +1,12 @@
+{
+	"name": "usagi",
+	"authors": [
+		"Rin Dev"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.8.2"
+	},
+	"description": "usagi - Imageboard",
+	"copyright": "Copyright © 2018, Rin Dev",
+	"license": "BSD 3-clause"
+}
